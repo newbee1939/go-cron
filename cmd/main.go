@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("cronのテスト")
+	fmt.Println(Sample())
+}
+
+func Sample() string {
+	return "success"
 }
