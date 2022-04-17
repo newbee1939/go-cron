@@ -19,3 +19,6 @@ func TestSample_サンプルテスト(t *testing.T) {
 
 	t.Log("TestSample終了")
 }
+
+// パターン書いて一つ一つ実装していく
+// * * * * * は毎分実行
